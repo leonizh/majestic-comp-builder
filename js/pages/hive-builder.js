@@ -672,7 +672,7 @@ function hbRenderStatsGrid(gridId, entries, emptyMsg) {
     .join("");
 }
 
-const HB_TIER_LABELS = ["I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX", "X"];
+const HB_TIER_LABELS = ["I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX", "X", "XI", "XII"];
 
 function hbBadgeBuffValue(badge, tier) {
   const { type, value } = badge.buff;
@@ -689,7 +689,7 @@ function hbBadgeBuffText(badge, tier) {
 }
 
 function hbTierPipsHtml(tier) {
-  return Array.from({ length: 10 }, (_, i) => i)
+  return Array.from({ length: 12 }, (_, i) => i)
     .map(
       (i) =>
         `<span class="hb-tier-pip${i < tier ? " hb-tier-pip-active" : ""}"></span>`,
@@ -703,8 +703,8 @@ function hbBuildBadges() {
   list.innerHTML = hbBadges
     .map((badge) => {
       const tier = hbBadgeTiers[badge.id] || 0;
-      const progress = tier / 10;
-      const options = Array.from({ length: 11 }, (_, i) => i)
+      const progress = tier / 12;
+      const options = Array.from({ length: 13 }, (_, i) => i)
         .map(
           (t) =>
             `<option value="${t}"${t === tier ? " selected" : ""}>${
@@ -742,7 +742,7 @@ function hbInitBadges() {
       const card = sel.closest(".hb-badge-card");
       if (card) {
         card.classList.toggle("hb-badge-card-active", !!tier);
-        card.style.setProperty("--badge-progress", String(tier / 10));
+        card.style.setProperty("--badge-progress", String(tier / 12));
         const bonusEl = card.querySelector(".hb-badge-bonus");
         if (bonusEl && badge) bonusEl.textContent = hbBadgeBuffText(badge, tier);
         const pipsEl = card.querySelector(".hb-tier-pips");
