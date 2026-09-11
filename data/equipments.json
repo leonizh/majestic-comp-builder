@@ -30,105 +30,105 @@
     },
     {
       "name": "Scissors",
-      "rarity": "Rare",
+      "rarity": "Basic",
       "image": "images/equipments/collectors/Scissors.png",
       "description": "Snip snip! \n\n Gathers 20 Pollen from 1 flower in front of you every 0.6 seconds.",
       "buffs": []
     },
     {
       "name": "Scythe",
-      "rarity": "Rare",
+      "rarity": "Basic",
       "image": "images/equipments/collectors/Scythe.png",
       "description": "Ready to harvest? \n\n Gathers 4 Pollen from 8 flowers in front of you every 0.66 seconds.",
       "buffs": []
     },
     {
       "name": "Axe",
-      "rarity": "Rare",
+      "rarity": "Basic",
       "image": "images/equipments/collectors/Axe.png",
       "description": "Might as well change my job with this. \n\n Gathers 5 Pollen from 9 flowers in front of you every 0.8 seconds.",
       "buffs": []
     },
     {
       "name": "Pickaxe",
-      "rarity": "Rare",
+      "rarity": "Basic",
       "image": "images/equipments/collectors/Pickaxe.png",
       "description": "Let's mine some diamonds! \n\n Gathers 6 Pollen from 12 flowers in front of you every 0.8 seconds.",
       "buffs": []
     },
     {
       "name": "Gold Magnet",
-      "rarity": "Legendary",
+      "rarity": "Basic",
       "image": "images/equipments/collectors/Gold Magnet.png",
       "description": "I feel a sense of deja vu... \n\n Gathers 9 Pollen from 7 flowers in front of you every 0.8 seconds.",
       "buffs": []
     },
     {
       "name": "Honey Dipper",
-      "rarity": "Epic",
+      "rarity": "Basic",
       "image": "images/equipments/collectors/Honey Dipper.png",
       "description": "Very sticky. At least you won't lose it. \n\n Gathers 5 Pollen from 29 flowers in front of you every 0.8 seconds.",
       "buffs": []
     },
     {
       "name": "Fire Scythe",
-      "rarity": "Epic",
+      "rarity": "Basic",
       "image": "images/equipments/collectors/Fire Scythe.png",
       "description": "Careful! It's hot!\nIt can spread Fire in the field. \n\n Gathers 8 Pollen from 14 flowers in front of you every 0.7 seconds.\nAdditionaly grants x1.5 red pollen.\n\n[Fire Aura Passive]: Covers Stamp In Fire Every 5 Clicks.",
       "buffs": []
     },
     {
       "name": "Snow Shovel",
-      "rarity": "Epic",
+      "rarity": "Basic",
       "image": "images/equipments/collectors/Snow Shovel.png",
       "description": "Cold to the touch.\nIt can spread Ice in the field. \n\n Gathers 8 Pollen from 29 flowers in front of you every 0.7 seconds.\nAdditionaly grants x1.5 blue pollen.\n\n[Ice Aura Passive]: Covers Stamp In Ice Every 5 Clicks.",
       "buffs": []
     },
     {
       "name": "Windy Staff",
-      "rarity": "Legendary",
+      "rarity": "Basic",
       "image": "images/equipments/collectors/Windy Staff.png",
       "description": "Very air‑tistic and light.\nIt can summon clouds in the field. \n\n Gathers 6 Pollen from 29 flowers in front of you every 0.9 seconds.\nAdditionaly grants x1.5 white pollen.\n\n[Windy Aura Passive]: Spawns 1 Cloud Every 5 Clicks.",
       "buffs": []
     },
     {
       "name": "Bamboo Spear",
-      "rarity": "Rare",
+      "rarity": "Basic",
       "image": "images/equipments/collectors/Bamboo Spear.png",
       "description": "...A pointy bamboo stick? Really? \n\n Gathers 26 Pollen from 8 flowers in front of you every 0.66 seconds.",
       "buffs": []
     },
     {
       "name": "Bamboo Rake",
-      "rarity": "Rare",
+      "rarity": "Basic",
       "image": "images/equipments/collectors/Bamboo Rake.png",
       "description": "Can you eat with this? \n\n Gathers 45 Pollen from 6 flowers in front of you every 0.9 seconds.",
       "buffs": []
     },
     {
       "name": "Bamboo Staff",
-      "rarity": "Epic",
+      "rarity": "Basic",
       "image": "images/equipments/collectors/Bamboo Staff.png",
       "description": "...Abracadabra? \n\n Gathers 18 Pollen from 29 flowers in front of you every 0.8 seconds.",
       "buffs": []
     },
     {
       "name": "Coconut Smash",
-      "rarity": "Epic",
+      "rarity": "Basic",
       "image": "images/equipments/collectors/Coconut Smash.png",
       "description": "Now, that's what I'm talking about! \n\n Gathers 65 Pollen from 5 flowers in front of you every 0.6 seconds.\n+Passive: Coconut Storm (Every 15 Clicks)",
       "buffs": []
     },
     {
       "name": "Nature Staff",
-      "rarity": "Mythic",
+      "rarity": "Basic",
       "image": "images/equipments/collectors/Nature Staff.png",
       "description": "Carved from an ancient branch of oak, it channels the ancient power of the forest. \n\n Gathers 95 Pollen from 29 flowers in front of you every 0.8 seconds.\n+Passive: Nature Harvest",
       "buffs": []
     },
     {
       "name": "Canvy’s Extra Paintbrush",
-      "rarity": "Special",
+      "rarity": "Basic",
       "image": "images/equipments/collectors/Paint Brush.png",
       "description": "Powered by the power of master. In true hands gives absolute drawing potential.\n\n Gathers 280 Pollen from 29 flowers in front of you every 1.3 seconds.\n+Passive: Colorful Splash",
       "buffs": []
@@ -163,7 +163,7 @@
     },
     {
       "name": "Flask",
-      "rarity": "Rare",
+      "rarity": "Basic",
       "image": "images/equipments/bags/Flask.png",
       "description": "Guess we can experiment with honey now.",
       "buffs": [
@@ -176,7 +176,7 @@
     },
     {
       "name": "Backpack",
-      "rarity": "Rare",
+      "rarity": "Basic",
       "image": "images/equipments/bags/Backpack.png",
       "description": "Let's go camping!",
       "buffs": [
@@ -194,7 +194,7 @@
     },
     {
       "name": "Flower Pot",
-      "rarity": "Rare",
+      "rarity": "Basic",
       "image": "images/equipments/bags/Flower Pot.png",
       "description": "A pot made of clay with a red flower inside it...\nIf it works it works I guess.",
       "buffs": [
@@ -212,7 +212,7 @@
     },
     {
       "name": "Bouquet Of Flowers",
-      "rarity": "Epic",
+      "rarity": "Basic",
       "image": "images/equipments/bags/Bouquet Of Flowers.png",
       "description": "Huh? It smells really nice!",
       "buffs": [
@@ -235,7 +235,7 @@
     },
     {
       "name": "Cauldron",
-      "rarity": "Epic",
+      "rarity": "Basic",
       "image": "images/equipments/bags/Cauldron.png",
       "description": "Mirror, mirror on the wall...",
       "buffs": [
@@ -258,7 +258,7 @@
     },
     {
       "name": "Hive",
-      "rarity": "Legendary",
+      "rarity": "Basic",
       "image": "images/equipments/bags/Hive.png",
       "description": "Sweet! Quite literally.",
       "buffs": [
@@ -286,7 +286,7 @@
     },
     {
       "name": "Furnace",
-      "rarity": "Epic",
+      "rarity": "Basic",
       "image": "images/equipments/bags/Furnace.png",
       "description": "Isn't it a little too heavy?",
       "buffs": [
@@ -319,7 +319,7 @@
     },
     {
       "name": "Coal Basket",
-      "rarity": "Rare",
+      "rarity": "Basic",
       "image": "images/equipments/bags/Coal Basket.png",
       "description": "Let's make some BBQ!",
       "buffs": [
@@ -362,7 +362,7 @@
     },
     {
       "name": "Fridge",
-      "rarity": "Epic",
+      "rarity": "Basic",
       "image": "images/equipments/bags/Fridge.png",
       "description": "You can even store food inside!",
       "buffs": [
@@ -395,7 +395,7 @@
     },
     {
       "name": "Ice Basket",
-      "rarity": "Rare",
+      "rarity": "Basic",
       "image": "images/equipments/bags/Ice Basket.png",
       "description": "Does it not melt?",
       "buffs": [
@@ -438,7 +438,7 @@
     },
     {
       "name": "Sheaf of Bamboo",
-      "rarity": "Rare",
+      "rarity": "Basic",
       "image": "images/equipments/bags/Sheaf of Bamboo.png",
       "description": "Well, that's one weird bag for sure.",
       "buffs": [
@@ -481,7 +481,7 @@
     },
     {
       "name": "Coconut Bag",
-      "rarity": "Epic",
+      "rarity": "Basic",
       "image": "images/equipments/bags/Coconut Bag.png",
       "description": "Wanna take a sip?",
       "buffs": [
@@ -524,7 +524,7 @@
     },
     {
       "name": "Blossom Canister",
-      "rarity": "Mythic",
+      "rarity": "Basic",
       "image": "images/equipments/bags/Blossom Canister.png",
       "description": "Nature's power on your back! Literally!",
       "buffs": [
@@ -567,7 +567,7 @@
     },
     {
       "name": "Paint Bucket",
-      "rarity": "Special",
+      "rarity": "Basic",
       "image": "images/equipments/bags/Paint Bucket.png",
       "description": "Art hall power stored inside those paints!\n+Passive: Art Splashes",
       "buffs": [
@@ -650,7 +650,7 @@
     },
     {
       "name": "Wasp Belt",
-      "rarity": "Rare",
+      "rarity": "Basic",
       "image": "images/equipments/belts/Wasp Belt.png",
       "description": "Can I get more bees with this?",
       "buffs": [
@@ -673,7 +673,7 @@
     },
     {
       "name": "Windy Belt",
-      "rarity": "Legendary",
+      "rarity": "Basic",
       "image": "images/equipments/belts/Windy Belt.png",
       "description": "C'mon, take it! It will really blow you away!",
       "buffs": [
@@ -706,7 +706,7 @@
     },
     {
       "name": "Bamboo Belt",
-      "rarity": "Epic",
+      "rarity": "Basic",
       "image": "images/equipments/belts/Bamboo Belt.png",
       "description": "Is this edible?",
       "buffs": [
@@ -734,7 +734,7 @@
     },
     {
       "name": "Coconut Belt",
-      "rarity": "Epic",
+      "rarity": "Basic",
       "image": "images/equipments/belts/Coconut Belt.png",
       "description": "Essential item for the new coconut fashion.",
       "buffs": [
@@ -772,7 +772,7 @@
     },
     {
       "name": "Nature Belt",
-      "rarity": "Mythic",
+      "rarity": "Basic",
       "image": "images/equipments/belts/Nature Belt.png",
       "description": "Made from enchanted vines... And a little poison.\n+Passive: Poison Harvest",
       "buffs": [
@@ -845,7 +845,7 @@
     },
     {
       "name": "Wasp Helmet",
-      "rarity": "Rare",
+      "rarity": "Basic",
       "image": "images/equipments/helmets/Wasp Helmet.png",
       "description": "Wasp its a danger insect that hate bees!",
       "buffs": [
@@ -883,7 +883,7 @@
     },
     {
       "name": "Fire Ant Helmet",
-      "rarity": "Epic",
+      "rarity": "Basic",
       "image": "images/equipments/helmets/Fire Ant Helmet.png",
       "description": "Made with ant‑thusiasm and a touch of fire.",
       "buffs": [
@@ -931,7 +931,7 @@
     },
     {
       "name": "Ice Ant Helmet",
-      "rarity": "Epic",
+      "rarity": "Basic",
       "image": "images/equipments/helmets/Ice Ant Helmet.png",
       "description": "Icefully ant made helmet!",
       "buffs": [
@@ -979,7 +979,7 @@
     },
     {
       "name": "Windy Helmet",
-      "rarity": "Legendary",
+      "rarity": "Basic",
       "image": "images/equipments/helmets/Windy Helmet.png",
       "description": "Gust what you needed. Am I right?",
       "buffs": [
@@ -1032,7 +1032,7 @@
     },
     {
       "name": "Aphid Helmet",
-      "rarity": "Rare",
+      "rarity": "Basic",
       "image": "images/equipments/helmets/Aphid Helmet.png",
       "description": "Found by Panda Bear after a battle.\nShould be good, right?",
       "buffs": [
@@ -1070,7 +1070,7 @@
     },
     {
       "name": "Sunny Helmet",
-      "rarity": "Mythic",
+      "rarity": "Basic",
       "image": "images/equipments/helmets/Sunny Helmet.png",
       "description": "The true sun god helmet.",
       "buffs": [
@@ -1123,7 +1123,7 @@
     },
     {
       "name": "Canvas Helmet",
-      "rarity": "Special",
+      "rarity": "Basic",
       "image": "images/equipments/helmets/Paint Helmet.png",
       "description": "Hunt secret stickers to increase your power!\n+Passive: Sticker Hunter",
       "buffs": [
@@ -1201,7 +1201,7 @@
     },
     {
       "name": "Left Wasp Guard",
-      "rarity": "Rare",
+      "rarity": "Basic",
       "image": "images/equipments/leftGuards/Left Wasp.png",
       "description": "Good! I could use a snack.",
       "buffs": [
@@ -1234,7 +1234,7 @@
     },
     {
       "name": "Snowflake Guard",
-      "rarity": "Epic",
+      "rarity": "Basic",
       "image": "images/equipments/leftGuards/Left Snowflake.png",
       "description": "It's getting cold in here!",
       "buffs": [
@@ -1272,7 +1272,7 @@
     },
     {
       "name": "Snowy Guard",
-      "rarity": "Epic",
+      "rarity": "Basic",
       "image": "images/equipments/leftGuards/Left Snowy.png",
       "description": "Just a little cool.",
       "buffs": [
@@ -1310,7 +1310,7 @@
     },
     {
       "name": "Icicle Guard",
-      "rarity": "Legendary",
+      "rarity": "Basic",
       "image": "images/equipments/leftGuards/Left Icicle.png",
       "description": "Almost as cold as ice.",
       "buffs": [
@@ -1378,7 +1378,7 @@
     },
     {
       "name": "Right Wasp Guard",
-      "rarity": "Rare",
+      "rarity": "Basic",
       "image": "images/equipments/rightGuards/Right Wasp.png",
       "description": "Good! I could use a snack.",
       "buffs": [
@@ -1411,7 +1411,7 @@
     },
     {
       "name": "Fire Guard",
-      "rarity": "Epic",
+      "rarity": "Basic",
       "image": "images/equipments/rightGuards/Right Fire.png",
       "description": "Just a little warm.",
       "buffs": [
@@ -1449,7 +1449,7 @@
     },
     {
       "name": "Flame Guard",
-      "rarity": "Epic",
+      "rarity": "Basic",
       "image": "images/equipments/rightGuards/Right Flame.png",
       "description": "It's getting hot in here!",
       "buffs": [
@@ -1487,7 +1487,7 @@
     },
     {
       "name": "Burning Guard",
-      "rarity": "Legendary",
+      "rarity": "Basic",
       "image": "images/equipments/rightGuards/Right Burning.png",
       "description": "Almost as hot as fire.",
       "buffs": [
@@ -1550,7 +1550,7 @@
     },
     {
       "name": "Wasp Gloves",
-      "rarity": "Rare",
+      "rarity": "Basic",
       "image": "images/equipments/gloves/Wasp Gloves.png",
       "description": "How do they even get these?",
       "buffs": [
@@ -1583,7 +1583,7 @@
     },
     {
       "name": "Bamboo Gloves",
-      "rarity": "Epic",
+      "rarity": "Basic",
       "image": "images/equipments/gloves/Bamboo Gloves.png",
       "description": "Natural and soft. What else would you need?",
       "buffs": [
@@ -1621,7 +1621,7 @@
     },
     {
       "name": "Nature Gloves",
-      "rarity": "Mythic",
+      "rarity": "Basic",
       "image": "images/equipments/gloves/Nature Gloves.png",
       "description": "Stitched from soft leaves and lined with thick moss, it keeps the hands warm and protected.",
       "buffs": [
@@ -1704,7 +1704,7 @@
     },
     {
       "name": "Wasp Boots",
-      "rarity": "Rare",
+      "rarity": "Basic",
       "image": "images/equipments/boots/Wasp Boots.png",
       "description": "They make a strange sound...",
       "buffs": [
@@ -1732,7 +1732,7 @@
     },
     {
       "name": "Fire Boots",
-      "rarity": "Epic",
+      "rarity": "Basic",
       "image": "images/equipments/boots/Fire Boots.png",
       "description": "Comfy and warm.\nSpreads Fire wherever you walk.",
       "buffs": [
@@ -1765,7 +1765,7 @@
     },
     {
       "name": "Ice Boots",
-      "rarity": "Epic",
+      "rarity": "Basic",
       "image": "images/equipments/boots/Ice Boots.png",
       "description": "Can't feel my toes anymore...\nSpreads Ice wherever you walk.",
       "buffs": [
@@ -1798,7 +1798,7 @@
     },
     {
       "name": "Coconut Boots",
-      "rarity": "Legendary",
+      "rarity": "Basic",
       "image": "images/equipments/boots/Coconut Boots.png",
       "description": "These boots go as hard as obsidian!",
       "buffs": [
@@ -1835,35 +1835,35 @@
     },
     {
       "name": "Silver Hydrant",
-      "rarity": "Rare",
+      "rarity": "Basic",
       "image": "images/equipments/hydrants/Silver Hydrant.png",
       "description": "A gleaming relic of urban infrastructure, reforged in pure silver.\n\n Amount: [1] \n Radius: [10] \n Rate: [4s] \n Power: [2].",
       "buffs": []
     },
     {
       "name": "Golden Hydrant",
-      "rarity": "Epic",
+      "rarity": "Basic",
       "image": "images/equipments/hydrants/Golden Hydrant.png",
       "description": "Drenched in pure gold from top to bottom, the Golden Hydrant is the ultimate symbol of wealth and success.\n\n Amount: [2] \n Radius: [11] \n Rate: [3.5s] \n Power: [3].",
       "buffs": []
     },
     {
       "name": "Diamond Hydrant",
-      "rarity": "Legendary",
+      "rarity": "Basic",
       "image": "images/equipments/hydrants/Diamond Hydrant.png",
       "description": "Forged under extreme heat and pressure, the Diamond Hydrant is the pinnacle of nobility and elegance.\n\n Amount: [2] \n Radius: [13] \n Rate: [3s] \n Power: [4].",
       "buffs": []
     },
     {
       "name": "Emerald Hydrant",
-      "rarity": "Mythic",
+      "rarity": "Basic",
       "image": "images/equipments/hydrants/Emerald Hydrant.png",
       "description": "Having a rich and mesmerizing green, the Emerald Hydrant pulses with an otherworldly glow.\n\n Amount: [3] \n Radius: [15] \n Rate: [3s] \n Power: [5].",
       "buffs": []
     },
     {
       "name": "Sunny Hydrant",
-      "rarity": "Special",
+      "rarity": "Basic",
       "image": "images/equipments/hydrants/Sunny Hydrant.png",
       "description": "This hydrant has a very bright future.\n\n Amount: [2] \n Radius: [22] \n Rate: [4s] \n Power: [7].\n+Passive: Sunny Pulse.",
       "buffs": []
