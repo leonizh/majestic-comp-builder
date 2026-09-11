@@ -594,22 +594,22 @@
         {
           "stat": "Pollen",
           "type": "Perc",
-          "value": 50
+          "value": 60
         },
         {
           "stat": "White Pollen",
           "type": "Perc",
-          "value": 35
+          "value": 45
         },
         {
           "stat": "Red Pollen",
           "type": "Perc",
-          "value": 35
+          "value": 45
         },
         {
           "stat": "Blue Pollen",
           "type": "Perc",
-          "value": 35
+          "value": 45
         },
         {
           "stat": "Bee Ability Rate",
@@ -619,7 +619,7 @@
         {
           "stat": "Energy Bonus",
           "type": "Multi",
-          "value": 1.4
+          "value": 1.6
         }
       ]
     }
