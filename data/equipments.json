@@ -1130,17 +1130,17 @@
         {
           "stat": "Capacity",
           "type": "Add",
-          "value": 1500000
+          "value": 2000000
         },
         {
           "stat": "Convert Rate",
           "type": "Perc",
-          "value": 300
+          "value": 400
         },
         {
           "stat": "Convert Amount",
           "type": "Add",
-          "value": 50
+          "value": 120
         },
         {
           "stat": "Pollen",
@@ -1150,7 +1150,7 @@
         {
           "stat": "Loot Luck",
           "type": "Perc",
-          "value": 100
+          "value": 120
         },
         {
           "stat": "Capacity Bonus",
@@ -1163,9 +1163,24 @@
           "value": 75
         },
         {
+          "stat": "Fire Pollen",
+          "type": "Multi",
+          "value": 1.5
+        },
+        {
+          "stat": "Ice Pollen",
+          "type": "Multi",
+          "value": 1.1
+        },
+        {
+          "stat": "Obsidian Pollen",
+          "type": "Multi",
+          "value": 1.1
+        },
+        {
           "stat": "Bee Ability Rate",
           "type": "Perc",
-          "value": 15
+          "value": 18
         }
       ]
     }
